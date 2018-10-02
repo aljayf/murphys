@@ -1,0 +1,9 @@
+.image-background {
+  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  background-size: 500px;
+  height: 500px;
+}
+
+.two-wide-column {
+  padding-top: 100px;
+}
