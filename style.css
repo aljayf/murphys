@@ -1,9 +1,23 @@
 .image-background {
-  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
-  background-size: 500px;
+  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg") no-repeat center center fixed;
+  background-size: cover;
   height: 500px;
 }
 
 .two-wide-column {
   padding-top: 100px;
+}
+
+p {
+  color: white;
+  padding-top: 15px;
+}
+
+.ui.centered.grid {
+  padding-top: 150px;
+}
+
+.footer-background {
+  background-color: #004030 ;
+  color: white;
 }
